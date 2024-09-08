@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# comment for the comment god
 netstat
 
